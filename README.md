@@ -16,12 +16,12 @@
 
 -----------------------------------------------------------------------------------------------------------
 <h3 align="left">Education</h3>
-
-> **Government College of Engineering Nagpur**
-> Bachelor of Engineering - BE,
->  Electronics and Telecommunication
-> Jun 2019 - Jun 2023
-
+<p>
+**Government College of Engineering Nagpur**
+Bachelor of Engineering - BE,
+ Electronics and Telecommunication
+ Jun 2019 - Jun 2023
+</p>
 ----------------------------------------------------------------------------------------------------------------
 <h3 align="left">Languages</h3>
 <p>English</p>
