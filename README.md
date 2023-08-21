@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Lad</h1>
 <h3 align="center">Passionate / skilled in software development, web development, and C++ programming.</h3>
 <h3 align="left">About Me :</h3>
-<p align="left> Committed to delivering efficient and innovative solutions that exceed client expectations. Proficient in leveraging cutting-edge technologies to optimize performance and enhance user experience. Seeking opportunities to contribute to dynamic teams and drive impactful projects. Let's connect and explore possibilities
+<palign="left"> Committed to delivering efficient and innovative solutions that exceed client expectations. Proficient in leveraging cutting-edge technologies to optimize performance and enhance user experience. Seeking opportunities to contribute to dynamic teams and drive impactful projects. Let's connect and explore possibilities
   </p>
 
 <h3 align="left">Connect with me:</h3>
