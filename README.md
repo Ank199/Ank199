@@ -20,7 +20,4 @@
 <p>Bachelor of Engineering - BE</p>
 
 ----------------------------------------------------------------------------------------------------------------
-<h3 align="left">Languages</h3>
-<p>English</p>
-<p>Hindi</p>
-<p>Marathi</p>
+
